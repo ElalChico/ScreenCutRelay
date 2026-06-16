@@ -78,7 +78,7 @@ instancias en diferentes puertos si necesitas transmisiones paralelas.
 
 ## Licencia
 
-Tus scripts están bajo licencia MIT (puedes cambiarla si lo prefieres).
+Los scripts están bajo licencia MIT [MIT](https://github.com/ElalChico/ScreenCutRelay/blob/master/LICENSE)
 scrcpy está bajo licencia Apache 2.0; consulta su repositorio para el texto completo.
 
 ## Créditos
