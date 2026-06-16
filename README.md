@@ -39,10 +39,10 @@ Transmite cualquier pantalla (dispositivo móvil vía ADB o webcam de PC) a la w
 rem 1️⃣ Inicia la transmisión (modo móvil o webcam)
 transmitir_web.bat
 
-rem 2️⃣ Elige la fuente (Mobile / Webcam) → aparece un diálogo.
+rem 2️⃣ Elige la fuente (Móvil / Cámara Web) → aparece un diálogo.
 rem 3️⃣ Escribe los dos nombres que quieres mostrar (pueden ser cualquier texto,
 rem    por ejemplo "Cámara 1", "Monitor", etc.).
-rem 4️⃣ Haz click‑drag sobre la captura de pantalla para seleccionar la zona que se
+rem 4️⃣ Haz clic y arrastra sobre la captura de pantalla para seleccionar la zona que se
 rem    transmitirá.
 rem 5️⃣ El panel de control se abre automáticamente en tu navegador predeterminado.
 ```
@@ -58,7 +58,7 @@ python transmitir_web.py
 - **Editar nombres** – pulsa el botón ✏.
 - **Intercambiar nombres** – pulsa el botón ↕.
 - **Aumentar / disminuir fuente** – botones A+ / A‑.
-- **Arrastrar etiquetas** – haz click sobre una etiqueta y muévela; la nueva posición
+- **Arrastrar etiquetas** – haz clic sobre una etiqueta y muévela; la nueva posición
   se envía a todos los espectadores en tiempo real.
 
 ## Preguntas frecuentes
